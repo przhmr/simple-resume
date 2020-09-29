@@ -6,12 +6,10 @@
     "location": "Coro, Venezuela"
   },
   "skills": [
-
     {
       "title": "Languages and Frameworks",
       "type": "tag",
       "subskills": [
-
         {
           "name": "Javascript"
         },
@@ -21,27 +19,20 @@
         {
           "name": "Vue"
         },
-
         {
           "name": "NodeJS"
         },
-
         {
           "name": "CSS"
         },
-
         {
           "name": "TailwindCSS"
         },
-
         {
           "name": "Bootstrap"
         }
-        
       ]
     },
-
-
     {
       "title": "General",
       "type": "percent",
@@ -50,16 +41,12 @@
           "name": "Customer Support",
           "percent": 90
         },
-
         {
           "name": "Customer Support",
           "percent": 90
         }
-        
-        
       ]
     },
-       
     {
       "title": "Software",
       "type": "tag",
@@ -111,7 +98,6 @@
       "start": "2007",
       "end": "2012"
     }
-    
   ],
   "experience": [
     {
@@ -120,48 +106,6 @@
       "description": "I consult startups to take their concept to the next level.",
       "start": "08/2018",
       "end": ""
-    },
-    {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
-      "end": "09/2019"
-    },
-    {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Dmapper",
-      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
-      "start": "12/2016",
-      "end": "10/2017"
-    },
-    {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
-    },
-    {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
     }
   ],
   "social": [
@@ -183,15 +127,15 @@
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
+      "url": "https://github.com/przhmr"
     },
     {
       "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
+      "url": "https://www.facebook.com/homer.perozo"
     },
     {
       "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://www.instagram.com/hhomerj"
     }
   ],
   "role": "Developer",
@@ -202,15 +146,12 @@
       "description": "A Mini point of sale designed to be used with mobile phones or tablets using React and tailwind, work in progress",
       "link": "https://github.com/przhmr/mini-pos"
     },
-
     {
       "name": "Whatsale",
       "company": "Open source",
       "description": "A lightweight e-commerce generator for small entrepreneurs to manage the sales through whatsapp",
       "link": "https://github.com/przhmr/mini-pos"
     }
-
-
   ],
   "fullname": "Homer J. Perozo"
 }
