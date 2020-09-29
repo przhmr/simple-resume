@@ -5,6 +5,7 @@ import GlobeIcon from '../assets/globe.svg';
 import LocationIcon from '../assets/location.svg';
 
 const Contact = ({ field, value }) => (
+  
   <span className="flex my-2 text-primary-900 tracking-widest items-center">
     {field === 'email' && (
       <>
@@ -32,7 +33,7 @@ const Contact = ({ field, value }) => (
           rel="noopener noreferrer"
           title="website"
         >
-          Personal Site
+          Website
         </a>
       </>
     )}
@@ -42,7 +43,13 @@ const Contact = ({ field, value }) => (
         <span className="contact-link">{value}</span>
       </>
     )}
+
+
+    
   </span>
+  
+
+  
 );
 
 export default Contact;

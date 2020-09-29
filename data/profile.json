@@ -1,179 +1,83 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "phone": "+58 4246156157",
+    "email": "przhmr@gmail.com",
+    "website": "https://homerj.xyz",
+    "location": "Coro, Venezuela"
   },
   "skills": [
+
+    {
+      "title": "Languages and Frameworks",
+      "type": "tag",
+      "subskills": [
+
+        {
+          "name": "Javascript"
+        },
+        {
+          "name": "React"
+        },
+        {
+          "name": "Vue"
+        },
+
+        {
+          "name": "NodeJS"
+        },
+
+        {
+          "name": "CSS"
+        },
+
+        {
+          "name": "TailwindCSS"
+        },
+
+        {
+          "name": "Bootstrap"
+        }
+        
+      ]
+    },
+
+
     {
       "title": "General",
       "type": "percent",
       "subskills": [
         {
-          "name": "Architecture",
-          "percent": 89
+          "name": "Customer Support",
+          "percent": 90
         },
+
         {
-          "name": "Mobile/Web App Development",
-          "percent": 95
-        },
-        {
-          "name": "Product Management",
-          "percent": 85
-        },
-        {
-          "name": "Project Management",
-          "percent": 92
-        },
-        {
-          "name": "Game Development",
-          "percent": 70
-        },
-        {
-          "name": "Blockchain",
-          "percent": 85
-        },
-        {
-          "name": "Dev Ops",
-          "percent": 81
-        },
-        {
-          "name": "Backend Development",
-          "percent": 93
-        },
-        {
-          "name": "Data Science",
-          "percent": 65
-        },
-        {
-          "name": "Artificial Intelligence",
-          "percent": 70
-        },
-        {
-          "name": "UX",
-          "percent": 80
+          "name": "Customer Support",
+          "percent": 90
         }
+        
+        
       ]
     },
-    {
-      "title": "Languages",
-      "type": "percent",
-      "subskills": [
-        {
-          "name": "Javascript",
-          "percent": 96
-        },
-        {
-          "name": "Java",
-          "percent": 82
-        },
-        {
-          "name": "Python",
-          "percent": 85
-        },
-        {
-          "name": "C#",
-          "percent": 74
-        },
-        {
-          "name": "Solidity",
-          "percent": 85
-        },
-        {
-          "name": "Dart",
-          "percent": 75
-        },
-        {
-          "name": "Go",
-          "percent": 60
-        }
-      ]
-    },
-    {
-      "title": "Frameworks",
-      "type": "tag",
-      "subskills": [
-        {
-          "name": "React"
-        },
-        {
-          "name": "Flutter"
-        },
-        {
-          "name": "React Native"
-        },
-        {
-          "name": "Vue"
-        },
-        {
-          "name": "Spring"
-        },
-        {
-          "name": "Angular"
-        },
-        {
-          "name": "Electron"
-        },
-        {
-          "name": "Node"
-        },
-        {
-          "name": "Flusk"
-        },
-        {
-          "name": "Express"
-        },
-        {
-          "name": "Koa"
-        },
-        {
-          "name": "Gatsby"
-        },
-        {
-          "name": "Apollo"
-        },
-        {
-          "name": "Django"
-        },
-        {
-          "name": "Loopback"
-        },
-        {
-          "name": "Next"
-        },
-        {
-          "name": "Amplify"
-        },
-        {
-          "name": "Pixi"
-        },
-        {
-          "name": "Phaser"
-        },
-        {
-          "name": "Feathers"
-        }
-      ]
-    },
+       
     {
       "title": "Software",
       "type": "tag",
       "subskills": [
         {
-          "name": "Docker"
+          "name": "Adobe Photoshop"
         },
         {
-          "name": "Jira"
+          "name": "GIMP"
         },
         {
-          "name": "Unity"
+          "name": "Inkscape"
         },
         {
-          "name": "Godot"
+          "name": "Notion"
         },
         {
-          "name": "Google Analytics"
+          "name": "Trello"
         }
       ]
     },
@@ -199,20 +103,15 @@
       ]
     }
   ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "summary": "Professional with over 8 years of experience in the IT industry, including installation, configuration and support of computers, servers and networks, VOIP technologies and now entering the world of web development",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
-    },
-    {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "UDEFA, Venezuela",
+      "degree": "Electronic Engineering",
+      "start": "2007",
+      "end": "2012"
     }
+    
   ],
   "experience": [
     {
@@ -295,14 +194,23 @@
       "url": "https://www.instagram.com/barancezayirli"
     }
   ],
-  "role": "Technologist",
+  "role": "Developer",
   "projects": [
     {
-      "name": "Gatsby resume starter",
+      "name": "Mini-POS",
       "company": "Open source",
-      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
-      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+      "description": "A Mini point of sale designed to be used with mobile phones or tablets using React and tailwind, work in progress",
+      "link": "https://github.com/przhmr/mini-pos"
+    },
+
+    {
+      "name": "Whatsale",
+      "company": "Open source",
+      "description": "A lightweight e-commerce generator for small entrepreneurs to manage the sales through whatsapp",
+      "link": "https://github.com/przhmr/mini-pos"
     }
+
+
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Homer J. Perozo"
 }
