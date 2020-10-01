@@ -116,13 +116,6 @@
     {
       "service": "twitter",
       "url": "https://twitter.com/przhmr"
-<<<<<<< HEAD
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
-=======
->>>>>>> 06d1596b6fa5b2a7b705a90e8a5606c12a36bb2c
     },
     {
       "service": "github",
