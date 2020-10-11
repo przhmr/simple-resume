@@ -73,19 +73,7 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "Postgresql"
-        },
-        {
           "name": "Mongodb"
-        },
-        {
-          "name": "Parse"
-        },
-        {
-          "name": "Firebase"
-        },
-        {
-          "name": "Elastic Search"
         }
       ]
     }
