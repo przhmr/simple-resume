@@ -69,23 +69,11 @@
       ]
     },
     {
-      "title": "Databases",
+      "title": "Database",
       "type": "tag",
       "subskills": [
         {
-          "name": "Postgresql"
-        },
-        {
           "name": "Mongodb"
-        },
-        {
-          "name": "Parse"
-        },
-        {
-          "name": "Firebase"
-        },
-        {
-          "name": "Elastic Search"
         }
       ]
     }
@@ -101,9 +89,9 @@
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
+      "role": "Web Developer",
+      "company": "Freelancer",
+      "description": "Web Development.",
       "start": "08/2018",
       "end": ""
     }
@@ -142,7 +130,7 @@
       "name": "Whatsale",
       "company": "Open source",
       "description": "A lightweight e-commerce generator for small entrepreneurs to manage the sales through whatsapp",
-      "link": "https://github.com/przhmr/mini-pos"
+      "link": "https://github.com/przhmr/whatsale"
     }
   ],
   "fullname": "Homer J. Perozo"
