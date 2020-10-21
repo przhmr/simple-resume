@@ -1,8 +1,9 @@
 import React from 'react';
 import MailIcon from '../assets/mail.svg';
 import MobileIcon from '../assets/mobile.svg';
-import GlobeIcon from '../assets/globe.svg';
+
 import LocationIcon from '../assets/location.svg';
+import DownloadIcon from '../assets/download.svg';
 
 const Contact = ({ field, value }) => (
   
@@ -23,24 +24,27 @@ const Contact = ({ field, value }) => (
         </a>
       </>
     )}
-    {field === 'website' && (
+    
+    {field === 'location' && (
       <>
-        <GlobeIcon className="contact-icon" />
+        <LocationIcon className="contact-icon" />
+        <span className="contact-link">{value}</span>
+      </>
+    )}
+
+
+{field === 'MyCV' && (
+      <>
+        <DownloadIcon className="contact-icon" />
         <a
           className="contact-link"
           target="_blank"
           href={value}
           rel="noopener noreferrer"
-          title="website"
+          title="MyCV"
         >
-          Website
+          Download CV
         </a>
-      </>
-    )}
-    {field === 'location' && (
-      <>
-        <LocationIcon className="contact-icon" />
-        <span className="contact-link">{value}</span>
       </>
     )}
 
