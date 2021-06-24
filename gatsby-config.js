@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Baran Cezayirli | Technologist`,
+        name: `Homer Perozo | Technologist`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,

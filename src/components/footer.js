@@ -21,8 +21,10 @@ const Footer = ({ social }) => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        Baran Cezayirli
+        Homer Perozo
       </a>
+
+      <a href="https://integrately.com?ref=m5v2l2&utm_campaign=Website Referral" target="_blank"><img src="https://integrately-images.s3-us-west-2.amazonaws.com/we-automate-with-integrately-dark.svg" width="120" alt="Integrately - Integration platform" title="Click to learn more"/></a>
     </div>
     {social && (
       <div className="flex items-center justify-center ml-2">
